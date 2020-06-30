@@ -15,6 +15,7 @@ class ViewController: UIViewController {
      
         print("中日ドラゴンズ")
         print("平田良介")
+        print("大島洋平")
     }
 
 
