@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
      
         print("中日ドラゴンズ")
-        
+        print("平田良介")
     }
 
 
